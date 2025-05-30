@@ -13,7 +13,7 @@ const timelineEvents = [
     date: "Georgia Institute of Technology - May 2023",
   },
   {
-    title: "Data Engineering Analyst",
+    title: "Technology Architecture Analyst",
     date: "Accenture - October 2023",
   },
   {
