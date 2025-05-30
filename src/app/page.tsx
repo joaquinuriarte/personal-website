@@ -76,7 +76,7 @@ export default function Home() {
                   <span>LinkedIn</span>
                 </a>
                 <a
-                  href="/resume.pdf"
+                  href="/Resume/Uriarte_Joaquin_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-3 py-1.5 md:px-4 md:py-2 bg-white/10 hover:bg-white/20 rounded-lg transition-colors text-center text-white text-sm md:text-base"
