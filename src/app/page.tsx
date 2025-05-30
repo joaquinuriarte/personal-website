@@ -162,6 +162,7 @@ export default function Home() {
                 <span className="px-3 py-1 bg-white/10 rounded-full text-sm text-white">BigQuery</span>
                 <span className="px-3 py-1 bg-white/10 rounded-full text-sm text-white">Langchain</span>
                 <span className="px-3 py-1 bg-white/10 rounded-full text-sm text-white">Data Modeling</span>
+                <span className="px-3 py-1 bg-white/10 rounded-full text-sm text-white">TensorFlow</span>
                 {/* Add more skills or placeholders as needed */}
               </div>
             </div>
